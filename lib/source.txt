@@ -1,0 +1,754 @@
+  ___________________________________________________________________________
+       |                         Mana Holy Day                         |
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+____________
+ Round Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Lilipods
+ + Small Seed   = Lilipods
+ + Oblong Seed  = Masked Potato
+ + Long Seed    = Spiny Carrot
+ + Crooked Seed = Lilipod
+ + Flat Seed    = Masked Potato
+ + Big Seed     = Spiny Carrot
+ + Spiny Seed   = Bumpkin
+_________________________________/
+
+____________
+ Small Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Lilipods
+ + Small Seed   = Lilipods
+ + Oblong Seed  = Applesocks
+ + Long Seed    = Orange'opus
+ + Crooked Seed = Citrisquid
+ + Flat Seed    = Applesocks
+ + Big Seed     = Orange'opus 
+ + Spiny Seed   = Citrisquid
+_________________________________/
+
+_____________
+ Oblong Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Masked Potato
+ + Small Seed   = Applesocks
+ + Oblong Seed  = Lilipods
+ + Long Seed    = Cabbadillo
+ + Crooked Seed = Conchurnip
+ + Flat Seed    = Needlettuce
+ + Big Seed     = Cabbadillo
+ + Spiny Seed   = Conchurnip
+_________________________________/
+
+___________
+ Long Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Spiny Carrot
+ + Small Seed   = Orange'opus
+ + Oblong Seed  = Cabbadillo
+ + Long Seed    = Lilipods
+ + Crooked Seed = Bellgrapes
+ + Flat Seed    = Peach Puppy
+ + Big Seed     = RHINOLOUPE
+ + Spiny Seed   = Springanana
+_________________________________/
+
+______________
+ Crooked Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Lilipods
+ + Small Seed   = Citrisquid
+ + Oblong Seed  = Conchurnip
+ + Long Seed    = Bellgrapes
+ + Crooked Seed = Lilipods
+ + Flat Seed    = Masked Potato
+ + Big Seed     = Honey Onion
+ + Spiny Seed   = Dolphin Squash
+_________________________________/
+
+___________
+ Flat Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Masked Potato
+ + Small Seed   = Applesocks
+ + Oblong Seed  = Needlettuce
+ + Long Seed    = Peach Puppy
+ + Crooked Seed = Masked Potato
+ + Flat Seed    = Lilipods
+ + Big Seed     = Mangolephant
+ + Spiny Seed   = Rocket Papaya
+_________________________________/
+
+__________
+ Big Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Spiny Carrot
+ + Small Seed   = Orange'opus
+ + Oblong Seed  = Cabbadillo
+ + Long Seed    = RHINOLOUPE
+ + Crooked Seed = Honey Onion
+ + Flat Seed    = Mangolephant
+ + Big Seed     = Lilipods
+ + Spiny Seed   = Bellgrapes
+_________________________________/
+
+____________
+ Spiny Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = BUMPKIN
+ + Small Seed   = Citrisquid
+ + Oblong Seed  = Conchurnip
+ + Long Seed    = Springanana
+ + Crooked Seed = Dolphin Squash
+ + Flat Seed    = Rocket Papaya
+ + Big Seed     = Bellgrapes
+ + Spiny Seed   = Lilipods
+_________________________________/
+
+
+  ___________________________________________________________________________
+       |                           Luna Day                            |
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+____________
+ Round Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Bellgrapes
+ + Small Seed   = Bellgrapes
+ + Oblong Seed  = Diceberry
+ + Long Seed    = Peach Puppy
+ + Crooked Seed = Bellgrapes
+ + Flat Seed    = Diceberry
+ + Big Seed     = Peach Puppy
+ + Spiny Seed   = Bellgrapes
+_________________________________/
+
+____________
+ Small Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Bellgrapes
+ + Small Seed   = Bellgrapes
+ + Oblong Seed  = Applesocks
+ + Long Seed    = Orange'opus
+ + Crooked Seed = Citrisquid
+ + Flat Seed    = Applesocks
+ + Big Seed     = Orange'opus
+ + Spiny Seed   = Citrisquid
+_________________________________/
+
+_____________
+ Oblong Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Diceberry
+ + Small Seed   = Applesocks
+ + Oblong Seed  = Diceberry
+ + Long Seed    = Springanana
+ + Crooked Seed = PINE O'CLOCK
+ + Flat Seed    = Rocket Papaya
+ + Big Seed     = Springanana
+ + Spiny Seed   = Mangolephant
+_________________________________/
+
+___________
+ Long Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Peach Puppy
+ + Small Seed   = Orange'opus
+ + Oblong Seed  = Springanana
+ + Long Seed    = Bellgrapes
+ + Crooked Seed = Bellgrapes
+ + Flat Seed    = Peach Puppy
+ + Big Seed     = Orange'opus
+ + Spiny Seed   = Springanana
+_________________________________/
+
+______________
+ Crooked Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Bellgrapes
+ + Small Seed   = Citrisquid
+ + Oblong Seed  = PINE O'CLOCK
+ + Long Seed    = Bellgrapes
+ + Crooked Seed = Bellgrapes
+ + Flat Seed    = Diceberry
+ + Big Seed     = Applesocks
+ + Spiny Seed   = Citrisquid    
+_________________________________/
+
+___________
+ Flat Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Diceberry
+ + Small Seed   = Applesocks
+ + Oblong Seed  = Rocket Papaya
+ + Long Seed    = Peach Puppy
+ + Crooked Seed = Diceberry
+ + Flat Seed    = Bellgrapes
+ + Big Seed     = Mangolephant
+ + Spiny Seed   = Rocket Papaya
+_________________________________/
+
+__________
+ Big Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Peach Puppy
+ + Small Seed   = Orange'opus
+ + Oblong Seed  = Springanana
+ + Long Seed    = Orange'opus
+ + Crooked Seed = Applesocks
+ + Flat Seed    = Mangolephant
+ + Big Seed     = Bellgrapes
+ + Spiny Seed   = KITTYPIE
+_________________________________/
+
+____________
+ Spiny Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Bellgrapes
+ + Small Seed   = Citrisquid
+ + Oblong Seed  = Mangolephant
+ + Long Seed    = Springanana
+ + Crooked Seed = Citrisquid
+ + Flat Seed    = Rocket Papaya
+ + Big Seed     = KITTYPIE
+ + Spiny Seed   = Bellgrapes
+_________________________________/
+
+
+  ___________________________________________________________________________
+       |                        Salamander Day                         |
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+____________
+ Round Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Lilipods
+ + Small Seed   = Lilipods
+ + Oblong Seed  = Masked Potato
+ + Long Seed    = Spiny Carrot
+ + Crooked Seed = Lilipods
+ + Flat Seed    = Masked Potato
+ + Big Seed     = ORCAPLANT
+ + Spiny Seed   = Lilipods
+_________________________________/
+
+____________
+ Small Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Lilipods
+ + Small Seed   = Lilipods
+ + Oblong Seed  = Honey Onion
+ + Long Seed    = Cornflower
+ + Crooked Seed = Dolphin Squash
+ + Flat Seed    = Honey Onion
+ + Big Seed     = Cornflower
+ + Spiny Seed   = Dolphin Sqush
+_________________________________/
+
+_____________
+ Oblong Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Masked Potato
+ + Small Seed   = Honey Onion
+ + Oblong Seed  = Lilipods
+ + Long Seed    = Cabbadillo
+ + Crooked Seed = Conchurnip
+ + Flat Seed    = Needlettuce
+ + Big Seed     = Cabbadillo
+ + Spiny Seed   = Conchurnip
+_________________________________/
+
+___________
+ Long Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Spiny Carrot
+ + Small Seed   = Cornflower
+ + Oblong Seed  = Cabbadillo
+ + Long Seed    = Lilipods
+ + Crooked Seed = Lilipods
+ + Flat Seed    = GARLICROWN
+ + Big Seed     = Cornflower
+ + Spiny Seed   = Cabbadillo
+_________________________________/
+
+______________
+ Crooked Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Lilipods
+ + Small Seed   = Dolphin Squash
+ + Oblong Seed  = Conchurnip
+ + Long Seed    = Lilipods
+ + Crooked Seed = Lilipods
+ + Flat Seed    = Masked Potato
+ + Big Seed     = Honey Onion
+ + Spiny Seed   = Dolphin Squash
+_________________________________/
+
+___________
+ Flat Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Masked Potato
+ + Small Seed   = Honey Onion
+ + Oblong Seed  = Needlettuce
+ + Long Seed    = GARLICROWN
+ + Crooked Seed = Masked Potato
+ + Flat Seed    = Lilipods
+ + Big Seed     = Conchurnip
+ + Spiny Seed   = Needlettuce
+_________________________________/
+
+__________
+ Big Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = ORCAPLANT
+ + Small Seed   = Cornflower
+ + Oblong Seed  = Cabbadillo
+ + Long Seed    = Cornflower
+ + Crooked Seed = Honey Onion
+ + Flat Seed    = Conchurnip
+ + Big Seed     = Lilipods
+ + Spiny Seed   = Spiny Carrot
+_________________________________/
+
+____________
+ Spiny Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Lilipods
+ + Small Seed   = Dolphin Squash
+ + Oblong Seed  = Conchurnip
+ + Long Seed    = Cabbadillo
+ + Crooked Seed = Dolphin Squash
+ + Flat Seed    = Needlettuce
+ + Big Seed     = Spiny Carrot
+ + Spiny Seed   = Lilipods
+_________________________________/
+
+
+  ___________________________________________________________________________
+       |                          Undine Day                           |
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+____________
+ Round Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Bellgrapes
+ + Small Seed   = Bellgrapes
+ + Oblong Seed  = Diceberry
+ + Long Seed    = Peach Puppy
+ + Crooked Seed = Bellgrapes
+ + Flat Seed    = Diceberry
+ + Big Seed     = Peach Puppy
+ + Spiny Seed   = Bellgrapes       
+_________________________________/
+
+____________
+ Small Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Bellgrapes
+ + Small Seed   = Bellgrapes
+ + Oblong Seed  = Applesocks
+ + Long Seed    = LOQUAT-SHOES
+ + Crooked Seed = Citrisquid
+ + Flat Seed    = Applesocks
+ + Big Seed     = Orange'opus
+ + Spiny Seed   = Citrisquid 
+_________________________________/
+
+_____________
+ Oblong Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Diceberry
+ + Small Seed   = Applesocks
+ + Oblong Seed  = Diceberry
+ + Long Seed    = Springanana
+ + Crooked Seed = Mangolephant
+ + Flat Seed    = Rocket Papaya
+ + Big Seed     = Springanana
+ + Spiny Seed   = Mangolephant
+_________________________________/
+
+___________
+ Long Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Peach Puppy
+ + Small Seed   = LOQUAT-SHOES
+ + Oblong Seed  = Springanana
+ + Long Seed    = Bellgrapes
+ + Crooked Seed = Bellgrapes
+ + Flat Seed    = Peach Puppy
+ + Big Seed     = Orange'opus
+ + Spiny Seed   = Springanana
+_________________________________/
+
+______________
+ Crooked Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Bellgrapes
+ + Small Seed   = Citrisquid
+ + Oblong Seed  = Mangolephant
+ + Long Seed    = Bellgrapes
+ + Crooked Seed = Bellgrapes
+ + Flat Seed    = Diceberry
+ + Big Seed     = Applesocks
+ + Spiny Seed   = Citrisquid
+_________________________________/
+
+___________
+ Flat Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Diceberry
+ + Small Seed   = Applesocks
+ + Oblong Seed  = Rocket Papaya
+ + Long Seed    = Peach Puppy
+ + Crooked Seed = Diceberry
+ + Flat Seed    = Bellgrapes
+ + Big Seed     = Mangolephant
+ + Spiny Seed   = Rocket Papaya
+_________________________________/
+
+__________
+ Big Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Peach Puppy
+ + Small Seed   = Orange'opus
+ + Oblong Seed  = Springanana
+ + Long Seed    = Orange'opus
+ + Crooked Seed = CHERRY BOMBS
+ + Flat Seed    = Mangolephant
+ + Big Seed     = Bellgrapes
+ + Spiny Seed   = Bellgrapes
+_________________________________/
+
+____________
+ Spiny Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Bellgrapes
+ + Small Seed   = Citrisquid
+ + Oblong Seed  = Mangolephant
+ + Long Seed    = Springanana
+ + Crooked Seed = Citrisquid
+ + Flat Seed    = Rocket Papaya
+ + Big Seed     = Bellgrapes 
+ + Spiny Seed   = Bellgrapes 
+_________________________________/
+
+
+  ___________________________________________________________________________
+       |                           Dryad Day                           |
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+____________
+ Round Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Lilipods
+ + Small Seed   = Lilipods
+ + Oblong Seed  = MUSH-IN-A-BOX
+ + Long Seed    = Spiny Carrot
+ + Crooked Seed = Lilipods
+ + Flat Seed    = Masked Potato
+ + Big Seed     = Spiny Carrot
+ + Spiny Seed   = Lilipods
+_________________________________/
+
+____________
+ Small Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Lilipods
+ + Small Seed   = Lilipods
+ + Oblong Seed  = Honey Onion
+ + Long Seed    = Cornflower
+ + Crooked Seed = SPADE BASIL
+ + Flat Seed    = Honey Onion
+ + Big Seed     = Cornflower
+ + Spiny Seed   = Dolphin Sqush
+_________________________________/
+
+_____________
+ Oblong Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = MUSH-IN-A-BOX
+ + Small Seed   = Honey Onion
+ + Oblong Seed  = Lilipods
+ + Long Seed    = Cabbadillo
+ + Crooked Seed = Conchurnip
+ + Flat Seed    = Needlettuce
+ + Big Seed     = Cabbadillo
+ + Spiny Seed   = Conchurnip
+_________________________________/
+
+___________
+ Long Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Spiny Carrot
+ + Small Seed   = Cornflower
+ + Oblong Seed  = Cabbadillo
+ + Long Seed    = Lilipods
+ + Crooked Seed = Lilipods
+ + Flat Seed    = Spiny Carrot
+ + Big Seed     = Cornflower
+ + Spiny Seed   = Cabbadillo
+_________________________________/
+
+______________
+ Crooked Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Lilipods
+ + Small Seed   = SPADE BASIL
+ + Oblong Seed  = Conchurnip
+ + Long Seed    = Lilipods
+ + Crooked Seed = Lilipods
+ + Flat Seed    = Masked Potato
+ + Big Seed     = Honey Onion
+ + Spiny Seed   = Dolphin Squash
+_________________________________/
+
+___________
+ Flat Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Masked Potato
+ + Small Seed   = Honey Onion
+ + Oblong Seed  = Needlettuce
+ + Long Seed    = Spiny Carrot
+ + Crooked Seed = Masked Potato
+ + Flat Seed    = Lilipods
+ + Big Seed     = Conchurnip
+ + Spiny Seed   = Needlettuce
+_________________________________/
+
+__________
+ Big Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Spiny Carrot
+ + Small Seed   = Cornflower
+ + Oblong Seed  = Cabbadillo
+ + Long Seed    = Cornflower
+ + Crooked Seed = Honey Onion
+ + Flat Seed    = Conchurnip
+ + Big Seed     = Lilipods
+ + Spiny Seed   = Spiny Carrot
+_________________________________/
+
+____________
+ Spiny Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Lilipods
+ + Small Seed   = Dolphin Squash
+ + Oblong Seed  = Conchurnip
+ + Long Seed    = Cabbadillo
+ + Crooked Seed = Dolphin Squash
+ + Flat Seed    = Needlettuce
+ + Big Seed     = Spiny Carrot
+ + Spiny Seed   = Lilipods
+_________________________________/
+
+
+  ___________________________________________________________________________
+       |                           Jinn Day                            |
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+____________
+ Round Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Bellgrapes
+ + Small Seed   = Bellgrapes
+ + Oblong Seed  = Diceberry
+ + Long Seed    = BOARMELON
+ + Crooked Seed = Bellgrapes
+ + Flat Seed    = Diceberry
+ + Big Seed     = Bellgrapes
+ + Spiny Seed   = Peach Puppy
+_________________________________/
+
+____________
+ Small Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Bellgrapes
+ + Small Seed   = Bellgrapes
+ + Oblong Seed  = Applesocks
+ + Long Seed    = Orange'opus
+ + Crooked Seed = Citrisquid
+ + Flat Seed    = Applesocks
+ + Big Seed     = Orange'opus
+ + Spiny Seed   = Citrisquid
+_________________________________/
+
+_____________
+ Oblong Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Diceberry
+ + Small Seed   = Applesocks
+ + Oblong Seed  = Diceberry
+ + Long Seed    = Springanana
+ + Crooked Seed = Mangolephant
+ + Flat Seed    = Rocket Papaya
+ + Big Seed     = Springanana
+ + Spiny Seed   = Mangolephant
+_________________________________/
+
+___________
+ Long Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = BOARMELON
+ + Small Seed   = Orange'opus
+ + Oblong Seed  = Springanana
+ + Long Seed    = Bellgrapes
+ + Crooked Seed = Bellgrapes
+ + Flat Seed    = Peach Puppy
+ + Big Seed     = Orange'opus
+ + Spiny Seed   = Springanana
+_________________________________/
+
+______________
+ Crooked Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Bellgrapes
+ + Small Seed   = Citrisquid
+ + Oblong Seed  = Mangolephant
+ + Long Seed    = Bellgrapes
+ + Crooked Seed = Bellgrapes
+ + Flat Seed    = Diceberry
+ + Big Seed     = Applesocks
+ + Spiny Seed   = Citrisquid
+_________________________________/
+
+___________
+ Flat Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Diceberry
+ + Small Seed   = Applesocks
+ + Oblong Seed  = Rocket Papaya
+ + Long Seed    = Peach Puppy
+ + Crooked Seed = Diceberry
+ + Flat Seed    = Bellgrapes
+ + Big Seed     = Mangolephant
+ + Spiny Seed   = FISHY FRUIT
+_________________________________/
+
+__________
+ Big Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Peach Puppy
+ + Small Seed   = Orange'opus
+ + Oblong Seed  = Springanana
+ + Long Seed    = Orange'opus
+ + Crooked Seed = Applesocks
+ + Flat Seed    = Mangolephant
+ + Big Seed     = Bellgrapes
+ + Spiny Seed   = Bellgrapes
+_________________________________/
+
+____________
+ Spiny Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Bellgrapes
+ + Small Seed   = Citrisquid
+ + Oblong Seed  = Mangolephant
+ + Long Seed    = Springanana
+ + Crooked Seed = Citrisquid
+ + Flat Seed    = FISHY FRUIT
+ + Big Seed     = Bellgrapes
+ + Spiny Seed   = Bellgrapes
+_________________________________/
+
+
+  ___________________________________________________________________________
+       |                           Gnome Day                           |
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+____________
+ Round Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Lilipods
+ + Small Seed   = Lilipods
+ + Oblong Seed  = Masked Potato
+ + Long Seed    = Spiny Carrot
+ + Crooked Seed = Lilipods
+ + Flat Seed    = Masked Potato
+ + Big Seed     = Spiny Carrot
+ + Spiny Seed   = Lilipods
+_________________________________/
+
+____________
+ Small Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Lilipods
+ + Small Seed   = Lilipods
+ + Oblong Seed  = Honey Onion
+ + Long Seed    = Cornflower
+ + Crooked Seed = Dolphin Squash
+ + Flat Seed    = Honey Onion
+ + Big Seed     = Cornflower
+ + Spiny Seed   = HEART MINT
+_________________________________/
+
+_____________
+ Oblong Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Masked Potato
+ + Small Seed   = Honey Onion
+ + Oblong Seed  = Lilipods
+ + Long Seed    = Cabbadillo
+ + Crooked Seed = Conchurnip
+ + Flat Seed    = WHALAMATO
+ + Big Seed     = Cabbadillo
+ + Spiny Seed   = Conchurnip
+_________________________________/
+
+___________
+ Long Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Spiny Carrot
+ + Small Seed   = Cornflower
+ + Oblong Seed  = Cabbadillo
+ + Long Seed    = Lilipods
+ + Crooked Seed = Lilipods
+ + Flat Seed    = Spiny Carrot
+ + Big Seed     = Cornflower
+ + Spiny Seed   = Cabbadillo
+_________________________________/
+
+______________
+ Crooked Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Lilipods
+ + Small Seed   = Dolphin Squash
+ + Oblong Seed  = Conchurnip
+ + Long Seed    = Lilipods
+ + Crooked Seed = Lilipods
+ + Flat Seed    = Masked Potato
+ + Big Seed     = Honey Onion
+ + Spiny Seed   = Dolphin Squash
+_________________________________/
+
+___________
+ Flat Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Masked Potato
+ + Small Seed   = Honey Onion
+ + Oblong Seed  = WHALAMATO
+ + Long Seed    = Spiny Carrot
+ + Crooked Seed = Masked Potato
+ + Flat Seed    = Lilipods
+ + Big Seed     = Conchurnip
+ + Spiny Seed   = Needlettuce
+_________________________________/
+
+__________
+ Big Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Spiny Carrot
+ + Small Seed   = Cornflower
+ + Oblong Seed  = Cabbadillo
+ + Long Seed    = Cornflower
+ + Crooked Seed = Honey Onion
+ + Flat Seed    = Conchurnip
+ + Big Seed     = Lilipods
+ + Spiny Seed   = Spiny Carrot
+_________________________________/
+
+____________
+ Spiny Seed \
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+ + Round Seed   = Lilipods
+ + Small Seed   = HEART MINT
+ + Oblong Seed  = Conchurnip
+ + Long Seed    = Cabbadillo
+ + Crooked Seed = Dolphin Squash
+ + Flat Seed    = Needlettuce
+ + Big Seed     = Spiny Carrot
+ + Spiny Seed   = Lilipod
+_________________________________/
